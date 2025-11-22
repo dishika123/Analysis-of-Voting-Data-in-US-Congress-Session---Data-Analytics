@@ -38,5 +38,4 @@ This workflow reflects a complete **data analytics pipeline** — from raw data 
 
 ---
 
-## 📂 Project Structure
 
